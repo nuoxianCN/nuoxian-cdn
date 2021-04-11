@@ -291,6 +291,23 @@ body {
 }
 
 /* 自适应 */
+@media screen and (max-width: 2340px)
+{
+    .meBox {
+        margin-left: 3%;
+    }
+
+    .meBox:hover {
+        width: 21rem;
+        heght: 26rem;
+        margin: 95px 0 0 2.5%;
+    }
+    
+    #cmdBox {
+        margin-right: 3%;
+    }
+}
+
 @media screen and (max-width: 1250px)
 {
     .meBox {
