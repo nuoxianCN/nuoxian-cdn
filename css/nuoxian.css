@@ -276,18 +276,19 @@ body {
 
 #footer {
     width: 100%;
-    color: white;
+    color: #F8F8FF;
     float: left;
     text-align: center;
     position: fixed;
-    bottom: 0;
+    bottom: 1em;
+    padding-top: 3px;
     margin-bottom: 30px;
     /* background-color: blue; */
 }
 
 #footer a {
     text-decoration: none;
-    color: white;
+    color: #F8F8FF;
 }
 
 #footer a:hover {
